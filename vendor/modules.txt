@@ -1,0 +1,3 @@
+# github.com/nleof/goyesql v1.0.2
+## explicit; go 1.10
+github.com/nleof/goyesql
